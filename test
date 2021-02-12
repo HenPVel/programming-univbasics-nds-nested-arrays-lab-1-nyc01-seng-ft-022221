@@ -7,6 +7,8 @@ array_of_arrays = [
 count = 0
 
 while count < array_of_arrays.length do
-  p array_of_arrays[count]
+  p array_of_arrays[count][0]
+  p array_of_arrays[count][1]
+  p array_of_arrays[count][2]
   count += 1
 end
