@@ -10,4 +10,3 @@ while count < array_of_arrays.length do
   puts array_of_arrays[count]
   count += 1
 end
-end
