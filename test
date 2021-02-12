@@ -7,6 +7,6 @@ array_of_arrays = [
 count = 0
 
 while count < array_of_arrays.length do
-  puts array_of_arrays[count]
+  p array_of_arrays[count]
   count += 1
 end
